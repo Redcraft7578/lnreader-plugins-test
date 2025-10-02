@@ -65,3 +65,5 @@ const PLUGIN = {
   async searchNovels(query, page = 1) {
     const base = await this.resolveBase();
     const sea
+    
+export default PLUGIN
